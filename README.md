@@ -73,10 +73,10 @@ Data source: Baseball Savant Statcast Search
 ---
 
 ## Project Structure
-notebooks/ # Jupyter notebooks for analysis and modeling
-data/ # Raw and processed datasets (not included in repo)
-reports/ # Final report and presentation slides
-docs/ # Project proposal and documentation
+- notebooks/ # Jupyter notebooks for analysis and modeling
+- data/ # Raw and processed datasets (not included in repo)
+- reports/ # Final report and presentation slides
+- docs/ # Project proposal and documentation
 
 ---
 
